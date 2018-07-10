@@ -1,0 +1,6 @@
+[package]
+name = "sentinel_int"
+version = "0.1.0"
+authors = ["Louis Dureuil <louis.dureuil@xinra.net>"]
+
+[dependencies]
